@@ -49,10 +49,22 @@
       "location": "Siena, Italy",
       "url": "https://www.dbcf.unisi.it/en",
       "area": "Computational Chemistry",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Quantum Computing", "Dynamics of Open Quantum Systems"]
+      "studyType": "Master Degree",
+      "startDate": "10-2021",
+      "endDate": "07-2023",
+      "score": "9",
+      "courses": ["Thesis Title: On the Excitonic Nature of Light Harvesting 2 - an ab initio approach"]
+    },
+    {
+      "institution": "University of Siena",
+      "location": "Siena, Italy",
+      "url": "https://www.dbcf.unisi.it/en",
+      "area": "Computational Chemistry",
+      "studyType": "Bachelor Degree",
+      "startDate": "10-2018",
+      "endDate": "11-2021",
+      "score": "8",
+      "courses": ["Thesis Title: On the Exciton Coupling between Bacteriochlorophylls in LH1 and LH2 Antenna Complexes"]
     }
   ],
   "publications": [
@@ -86,16 +98,15 @@
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computational Chemistry",
+        "Electronic Structure",
+        "Scientific Programming"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -117,28 +128,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
